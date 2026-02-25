@@ -4,6 +4,6 @@ def add(a, b):
     print(a+b)
 
 import sys
-a = float(sys.argv[2])
-b = float(sys.argv[2])
+a = float(sys.argv[1])
+b = float(sys.argv[1])
 add(a, b)
