@@ -41,5 +41,6 @@ can work simultaneously without stepping on each other.
 | `broken-history-1` … `-3` | Recover "lost" commits | `git reflog`, `git reset` |
 
 Other useful topics to learn:
+- Creating / resolving an issue
 - Adding a large file using github LFS
 - Continuous Integration
