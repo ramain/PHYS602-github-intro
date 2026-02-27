@@ -3,4 +3,5 @@
 Add a row with your name and a short description of your research (10 words or fewer).
 
 | Name | Research |
-|------|----------|
+|Bogdan Bulgaru|Developing an ultra-high mobility transistor with Galium Arsenide.|
+
