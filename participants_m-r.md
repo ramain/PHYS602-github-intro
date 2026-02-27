@@ -5,3 +5,4 @@ Add a row with your name and a short description of your research (10 words or f
 | Name | Research |
 |------|----------|
 | Robert Main | Discovering exotic pulsars with CHIME! |
+| Natalia Martorella | Gamma-ray astro with VERITAS |
