@@ -27,7 +27,6 @@ branches below which have some common git/github problems.
 ```bash
 git fetch origin
 git checkout exercise/merge-conflict-1   # replace with the branch you want
-cat EXERCISE.md
 ```
 
 Three independent versions of each exercise are available so multiple students
