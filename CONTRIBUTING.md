@@ -3,16 +3,12 @@
 Follow these steps to add your name to the participants list and open a pull request.
 This covers the core git workflow you will use constantly as a researcher.
 
----
-
 ## Step 1: Clone the repository
 
 ```bash
 git clone https://github.com/YOUR-ORG/PHYS602-github-intro.git
 cd PHYS602-github-intro
 ```
-
----
 
 ## Step 2: Create a new branch
 
@@ -48,12 +44,8 @@ Add a row to the table at the bottom with your name and a short research descrip
 (10 words or fewer). Use the existing rows as a template:
 
 ```markdown
-| Robert Main | Mapping stellar winds in massive binary systems |
+| Robert Main | Discovering exotic pulsars with CHIME! |
 ```
-
-Save the file.
-
----
 
 ## Step 4: Stage and commit your change
 
@@ -63,9 +55,7 @@ git status                         # confirm only your file is staged
 git commit -m "Add Robert Main to participants"
 ```
 
-A good commit message is short and describes *what* changed, not *how*.
-
----
+A good commit message is short and describes what changed.
 
 ## Step 5: Push your branch to GitHub
 
@@ -73,9 +63,8 @@ A good commit message is short and describes *what* changed, not *how*.
 git push origin add/robert-main
 ```
 
-If this is your first push, git may print a longer command — just copy and run it.
+If this is your first push, git may print a longer command (e.g. git push --set-upstream origin add/robert-main)
 
----
 
 ## Step 6: Open a pull request
 
@@ -86,27 +75,14 @@ If this is your first push, git may print a longer command — just copy and run
 4. Give your PR a clear title, e.g. `Add Robert Main to participants`.
 5. Click **Create pull request**.
 
-That's it! A maintainer will review and merge your PR.
+A maintainer (me: Robert), will review your PR, ask for changes, or approve it
 
----
+## Merge Conflicts
 
-## Troubleshooting
-
-**My push was rejected:**
-Someone else merged a change to `main` while you were working.
-Pull the latest changes and rebase your branch on top:
-
-```bash
-git fetch origin
-git rebase origin/main
-git push origin add/robert-main
-```
-
-**I got a merge conflict:**
 Open the file with conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`),
 decide which lines to keep (or keep both), remove the markers, then:
 
 ```bash
 git add participants_m-r.md
-git commit
+git commit -m "helpful message about merge conflicts"
 ```
