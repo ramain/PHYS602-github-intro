@@ -5,3 +5,4 @@ Add a row with your name and a short description of your research (10 words or f
 | Name | Research |
 |Max Fine|Fast Radio Bursts (FRBs), CHIME, Scattering|
 |------|----------|
+| Laurie Amen | Testing the Universe's intrinsic isotropy with 21-cm maps. |
