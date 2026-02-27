@@ -9,7 +9,8 @@ First 'fork' the repository on github.  Then you will have a copy tied to your a
 
 Then clone your fork of the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/PHYS602-github-intro.git
+git clone git@github.com:ramain/PHYS602-github-intro.git  # if your SSH key is added, or
+git clone https://github.com/YOUR-USERNAME/PHYS602-github-intro.git   
 cd PHYS602-github-intro
 ```
 
