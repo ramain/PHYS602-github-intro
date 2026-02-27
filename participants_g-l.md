@@ -4,4 +4,3 @@ Add a row with your name and a short description of your research (10 words or f
 
 | Name | Research |
 |------|----------|
-| Naman Jain | Fast Radio Bursts (FRBs) |
