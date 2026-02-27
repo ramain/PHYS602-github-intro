@@ -3,10 +3,13 @@
 Follow these steps to add your name to the participants list and open a pull request.
 This covers the core git workflow you will use constantly as a researcher.
 
-## Step 1: Clone the repository
+## Step 1: Fork and clone the repository
 
+First 'fork' the repository on github.  Then you will have a copy tied to your account, as https://github.com/YOUR-USERNAME/PHYS602-github-intro
+
+Then clone your fork of the repository
 ```bash
-git clone https://github.com/YOUR-ORG/PHYS602-github-intro.git
+git clone https://github.com/YOUR-USERNAME/PHYS602-github-intro.git
 cd PHYS602-github-intro
 ```
 
