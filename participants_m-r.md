@@ -6,3 +6,4 @@ Add a row with your name and a short description of your research (10 words or f
 |------|----------|
 | Robert Main | Discovering exotic pulsars with CHIME! |
 | Kenny Moc | Shooting lasers |
+| Regina Rios Rodriguez | ATLAS |
