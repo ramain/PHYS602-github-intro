@@ -4,6 +4,7 @@ Add a row with your name and a short description of your research (10 words or f
 
 | Name | Research |
 |------|----------|
+| Eric Friesen Waldner | Atomic Force Microscopy of Quantum Dots |
 |Tomoji|Modelling grain boundary precipitates in alloys|
 |Tristan Devaux|Compact Star PFC|
 |David Abbe|I shoot electrons at crystals to watch them dance|
