@@ -5,3 +5,7 @@ Add a row with your name and a short description of your research (10 words or f
 | Name | Research |
 |------|----------|
 | Shu Zhang | Astrophysical fluid |
+|Angela Sabzevari Gonzalez|Experimental High Energy Particle Physics with ATLAS|
+|Emilia Vlahos| Edge currents in chiral superconductors|
+| Christopher Sheridan | Studying AGN with the Event Horizon Collaboration |
+|Z Steinberg|Radio Telescope Instrumentation|
