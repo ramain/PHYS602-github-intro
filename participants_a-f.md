@@ -4,6 +4,7 @@ Add a row with your name and a short description of your research (10 words or f
 
 | Name | Research |
 |------|----------|
+|Tristan Devaux|Compact Star PFC|
 |David Abbe|I shoot electrons at crystals to watch them dance|
 | Félix Desroches | Dark Neutron Decay |
 | Julia Azzi | nanoviscosity measurements of cells using fluorescence lifetime imaging!|
