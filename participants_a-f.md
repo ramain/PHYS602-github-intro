@@ -4,6 +4,7 @@ Add a row with your name and a short description of your research (10 words or f
 
 | Name | Research |
 |------|----------|
+|Eleanor Allen|Silicon Photomultiplier (SiPM) External Cross-talk|
 | Laurie Amen | Testing the Universe's intrinsic isotropy with 21-cm maps. |
 | Eric Friesen Waldner | Atomic Force Microscopy of Quantum Dots |
 |Tomoji|Modelling grain boundary precipitates in alloys|
